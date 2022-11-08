@@ -9,5 +9,6 @@ three.js based 3D map editor for creating HD2D style maps
 ```
 git clone https://github.com/thplat/originedit.git
 cd originedit
+npm install
 npm run dev
 ```
